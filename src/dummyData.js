@@ -53,7 +53,7 @@ export const Posts = [
     {
         id: 1,
         desc: "Love for all ❤️",
-        photo: "/assets/pic1.jpg",
+        photo: "/assets/pic10.jpg",
         date: "5 min ago",
         userId: 1,
         like: 32,
@@ -62,7 +62,7 @@ export const Posts = [
     {
         id: 2,
         desc: "Chasing dreams one step at a time 🚀",
-        photo: "/assets/pic2.jpg",
+        photo: "/assets/pic12.jpg",
         date: "10 min ago",
         userId: 2,
         like: 54,
@@ -71,7 +71,7 @@ export const Posts = [
     {
         id: 3,
         desc: "Nature’s beauty is unmatched 🌿",
-        photo: "/assets/pic3.jpg",
+        photo: "/assets/pic13.jpg",
         date: "20 min ago",
         userId: 3,
         like: 76,
@@ -80,7 +80,7 @@ export const Posts = [
     {
         id: 4,
         desc: "Nothing beats a good book and coffee ☕📖",
-        photo: "/assets/pic4.jpg",
+        photo: "/assets/pic14.jpg",
         date: "30 min ago",
         userId: 4,
         like: 45,
@@ -89,7 +89,7 @@ export const Posts = [
     {
         id: 5,
         desc: "Happiness is homemade 🍕",
-        photo: "/assets/pic5.jpg",
+        photo: "/assets/pic15.jpg",
         date: "1 hour ago",
         userId: 5,
         like: 89,
