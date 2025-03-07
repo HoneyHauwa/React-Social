@@ -14,12 +14,19 @@ export default function Profile() {
         <Sidebar/>
         <div className="profileRight">
             <div className="profileRightTop">
-                <img className='profileCoverImg' src="/assets/pic1.jpg" alt="" />
-                <img className='profileUserImg' src="/assets/pic2.jpg" alt="" />
+                <div className="profileCover">
+                <img className='profileCoverImg' src="/assets/hauwa.jpg" alt="" />
+                <img className='profileUserImg' src="/assets/pic15.jpg" alt="" />
+                </div>
+                  <div className="profileInfo">
+                    <h4 className='profileInfoName' >honey</h4>
+                    <span className='profileInfDesc'>hello my friends</span>
+                  </div>
+                
             </div>
             <div className="profileRightBottom">
             <Feed/>
-            <Rightbar/>
+            <Rightbar profile/>
 
             </div>
         
